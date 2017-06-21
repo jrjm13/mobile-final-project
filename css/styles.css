@@ -1,0 +1,37 @@
+/*Header Styles*/
+.navbar {
+  background-color: transparent;
+  border: none;
+}
+
+.navbar-brand {
+  padding: 0;
+}
+
+#logo {
+  height: 50px;
+}
+
+/* Carousel Styles */
+
+.item {
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+#logo-background {
+  background-image: url('../img/logo.jpg');
+}
+
+#sign-img {
+  transform: rotateY(100%);
+}
+
+#birds-background {
+  background-image: url('../img/birds.jpg');
+}
+
+#bad-apple-background {
+  background-image: url('../img/bad-apple.jpg');
+}
