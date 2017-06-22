@@ -75,5 +75,33 @@ p {
 
 #about-me h1.blue-text {
   font-size: 5.5em;
-  padding-top: 13%;
+  padding-top: 30%;
+}
+
+.art {
+  background-image: url('../img/art.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+/*wood section*/
+
+#wood {
+  margin-top: 3%;
+}
+
+#wood h1 {
+  font-family: 'Frijole', cursive;
+  text-align: center;
+  font-size: 24em;
+}
+
+.sign {
+  background-image: url('../img/sign.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
 }
