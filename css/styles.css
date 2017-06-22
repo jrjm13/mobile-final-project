@@ -105,3 +105,43 @@ p {
   background-position: center;
   height: 100vh;
 }
+
+/*sculpture section*/
+
+#sculpture {
+  margin-top: 3%;
+}
+
+#sculpture h1 {
+  font-family: 'Frijole', cursive;
+  text-align: center;
+  font-size: 14em;
+}
+
+.dragon {
+  background-image: url('../img/dragon.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+/*drawing section*/
+
+#drawing {
+  margin-top: 3%;
+}
+
+#drawing h1 {
+  font-family: 'Frijole', cursive;
+  text-align: center;
+  font-size: 15em;
+}
+
+.drawings {
+  background-image: url('../img/drawings.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
